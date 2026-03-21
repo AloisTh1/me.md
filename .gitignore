@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# VS Code local
+.vscode/*.code-workspace
+
+# Vault runtime data — created locally by init scripts, not committed
+/private/
+/scratch/
+/cache/
+/temp/
+/exports/
+/archive/
+/inbox/
+/notes/
+/facts/
+/metrics/
+/people/
+/sources/
+/clusters/
+/journal/
+/attachments/
